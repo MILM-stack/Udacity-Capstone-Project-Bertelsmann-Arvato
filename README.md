@@ -8,7 +8,7 @@
 5. [Licensing, Authors, and Acknowledgements](#licensing)
 
 ## 1. Project Motivation <a name="motivation"></a>
-This project is the Capstone of the Data Scientist Nanodegree Program with Udacity. 
+This project is the Capstone project of the Data Scientist Nanodegree Program with Udacity. 
 
 It is made in collaboration with Bertelsmann-Arvato. The goal of our project is to foresee, which part of the population is most likely to convert to a customer, after being targeted with a mailing campaign. To do so, we will follow two mail steps:
 
