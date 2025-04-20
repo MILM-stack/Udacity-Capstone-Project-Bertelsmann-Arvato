@@ -21,11 +21,13 @@ Read the complete report on this project by clicking on the following link: http
 
 The project was implemented using Python. The main libraries used include:
 
-- `numpy`, `pandas` – Data manipulation
-- `matplotlib`, `seaborn` – Data visualization
-- `scikit-learn` – Preprocessing, modeling, and evaluation
-- `xgboost` – Advanced gradient boosting model
-- `imblearn` – Handling imbalanced datasets
+- numpy
+- pandas
+- matplotlib
+- seaborn
+- scikit-learn
+- xgboost
+- imblearn
   
 ## 3. Files Descriptions <a name="File Descriptions"></a>
 - ‘Udacity_AZDIAS_052018.csv’: Demographics data for the general population of Germany; 891 211 persons (rows) x 366 features (columns).
